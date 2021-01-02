@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            Sofie Kalinke
 tagline:          'A Jekyll theme'
-description:      'Human Factors Engineer und UX Designer from Munich. Contact me at <a href="mailto:sofie@kalinke.de">sofie@kalinke.de</a>sofie@kalinke.de.'
+description:      'Human Factors Engineer und UX Designer from Munich. Contact me at <a href="mailto:sofie@kalinke.de">sofie@kalinke.de</a>.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
